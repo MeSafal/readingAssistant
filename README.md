@@ -1,5 +1,5 @@
 # 📘 Visually Impaired Reading Assistant  
-_A Final Year Major by Arjun Koirala and Sushmeet Paudel_
+_A Final Year Major Project — by Arjun Koirala and Sushmeet Paudel_
 
 ---
 
