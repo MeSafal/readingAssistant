@@ -102,12 +102,12 @@ For full technical details, see the [Project Report](report.pdf).
 
 ## 📦 Download Trained Model
 
-👉 [Click here to download the trained model (.pt)](https://drive.google.com/file/d/your-model-id/view?usp=sharing)
+👉 [Click here to download the trained model (.pt)](https://drive.google.com/drive/folders/123BWaP7u2BaRjVuG3aLw4tQGxAhvYjzR?usp=sharing)
 
 
 > The model used for word-level Devanagari OCR prediction is hosted on Google Drive due to file size limits.
 
-> Download best_model.pth and add it on your root folder.
+> Download Reading Assistant --> best_model.pth and add it on your root folder.
 
 
 ## 🧑‍💻 Setup & Execution
