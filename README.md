@@ -6,21 +6,19 @@ _A Final Year Major Project — by Arjun Koirala and Sushmit Paudel_
 
 ## 🎥 Demo Showcase
 
----
 
 ### ✅ Official Demo  
 🎯 See the system in action from start to finish:  
-👉 [📽️ Watch Demo Video on Google Drive](https://drive.google.com/file/d/1b2qsJBYISt2M6K5pZP8f4dBcUC7p3qIx/view?usp=sharing)  
+👉 <a href="https://drive.google.com/file/d/1b2qsJBYISt2M6K5pZP8f4dBcUC7p3qIx/view?usp=sharing" target="_blank">📽️ Watch Demo Video on Google Drive</a>  
 <sub>_(Hosted externally)_</sub>
 
 ---
 
 ### 🎉 Fun Behind the Scenes  
 😄 Because not everything goes as planned:  
-👉 [🎬 Watch Fun Video](https://drive.google.com/file/d/11vSVjvXCQ-3MTwX7LQtInqSDipN4s13z/view?usp=drive_link)  
+👉 <a href="https://drive.google.com/file/d/11vSVjvXCQ-3MTwX7LQtInqSDipN4s13z/view?usp=drive_link" target="_blank">🎬 Watch Fun Video</a>  
+_First Time when finally the model predicted the words perfectly_  
 <sub>_(Hosted externally)_</sub>
-
----
 
 ---
 
@@ -28,11 +26,12 @@ _A Final Year Major Project — by Arjun Koirala and Sushmit Paudel_
 
 > 💡 Explore everything me and my team have built — from our early vision to final execution and fun behind-the-scenes moments.
 
-👉 [📁 Access All Project Videos on Google Drive](https://drive.google.com/drive/folders/1XJ2Pygg4lbet_aBQyB7b7QG9pEV38vye?usp=drive_link)
+👉 <a href="https://drive.google.com/drive/folders/1XJ2Pygg4lbet_aBQyB7b7QG9pEV38vye?usp=drive_link" target="_blank">📁 Access All Project Videos on Google Drive</a>
 
-_This shared folder contains planning, demo, and fun recordings for full transparency and storytelling._
+<sub>This shared folder contains planning, demo, and fun recordings for full transparency and storytelling.</sub>
 
 ---
+
 
 
 
