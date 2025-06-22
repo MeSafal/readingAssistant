@@ -8,11 +8,11 @@ _A Final Year Major Project — by Arjun Koirala and Sushmit Paudel_
 ### ✅ Official Demo  
 🎯 See the system in action from start to finish:  
 👉 [📽️ Watch Demo Video on Google Drive](https://drive.google.com/file/d/1b2qsJBYISt2M6K5pZP8f4dBcUC7p3qIx/view?usp=sharing)  
-
+_(Hosted externally)_
 
 ### 😄 Fun Behind the Scenes  
 🎉 Because not everything goes as planned:  
-👉 [🎬 Watch Fun Video](https://drive.google.com/file/d/11vSVjvXCQ-3MTwX7LQtInqSDipN4s13z/view?usp=drive_link
+👉 [🎬 Watch Fun Video](https://drive.google.com/file/d/11vSVjvXCQ-3MTwX7LQtInqSDipN4s13z/view?usp=drive_link)
 _(Hosted externally)_
 ---
 
