@@ -22,6 +22,18 @@ _A Final Year Major Project — by Arjun Koirala and Sushmit Paudel_
 
 ---
 
+---
+
+## 🎞️ Project Video Library
+
+> 💡 Explore everything me and my team have built — from our early vision to final execution and fun behind-the-scenes moments.
+
+👉 [📁 Access All Project Videos on Google Drive](https://drive.google.com/drive/folders/1XJ2Pygg4lbet_aBQyB7b7QG9pEV38vye?usp=drive_link)
+
+_This shared folder contains planning, demo, and fun recordings for full transparency and storytelling._
+
+---
+
 
 
 ## 📌 Project Overview
